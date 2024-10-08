@@ -1,0 +1,40 @@
+[
+  {
+    "path": "posts/412/",
+    "title": "Fórmulas presidenciales",
+    "description": "En esta encuesta se pregunta sobre las fórmulas presidenciales del Frente Amplio,\nPartido Nacional y Partido Colorado.",
+    "author": [
+      {
+        "name": "Usina",
+        "url": "https://usinapercepcion.github.io/informes/"
+      }
+    ],
+    "date": "2024-10-07",
+    "categories": [
+      "Julio 2024"
+    ],
+    "contents": "\nSíntesis\nEn relación a las valoraciones sobre la fórmula presidencial del Partido Nacional integrada por Álvaro\nDelgado y Valeria Ripoll, más de la mitad de las personas (51 %) cree que la fórmula es desacertada\no muy desacertada; 22 % cree que es acertada o muy acertada, y 19 % tiene una opinión neutral al\nrespecto.\nEntre los más jóvenes (18 a 29 años) se visualiza el menor porcentaje de personas (13 %) que cree que la\nfórmula del PN es acertada o muy acertada. Por su parte, entre los votantes de la Coalición Multicolor,\nla valoración de la fórmula mejora sensiblemente, ya que 43 % afirma que la fórmula es acertada o muy\nacertada. De todas formas, incluso entre los votantes de la Coalición, 34 % declara que es desacertada o\nmuy desacertada.\nEn cuanto a las valoraciones sobre la fórmula presidencial del Frente Amplio integrada por Yamandú\nOrsi y Carolina Cosse, la opinión pública en general es bien distinta ya que 6 de cada 10 personas (61 %)\ncree que la fórmula es acertada o muy acertada; 20 % sostiene que es desacertada o muy desacertada, y\n14 % se muestra neutral al respecto.\nEntre los votantes del Frente Amplio, la valoración de la fórmula también mejora, ya que casi 9 de cada\n10 personas (89 %) la considera acertada o muy acertada. Es interesante notar, que incluso entre los\nvotantes de la Coalición Multicolor, 37 % tiene una valoración positiva sobre la fórmula presidencial del\nFrente Amplio.\nPor último, en cuanto a las valoraciones sobre la fórmula presidencial del Partido Colorado integrada\npor Andrés Ojeda y Robert Silva, mientras que el 45 % sostiene que la fórmula es acertada y muy\nacertada, 12 % considera lo opuesto, y 34 % se manifiesta neutral al respecto.\nEntre los votantes de la Coalición Multicolor, 67 % tiene una opinión favorable y sólo un 5 % manifiesta\nuna opinión no favorable sobre la fórmula definida en el Partido Colorado.\nDelgado - Ripoll\n¿Cómo calificarías la fórmula presidencial del Partido Nacional integrada por Delgado y Ripoll?\n\n\n\nSegún tramo de edad\n\n\n\nOrsi-Cosse\n¿Cómo calificarías la fórmula presidencial del Frente Amplio integrada por Yamandú Orsi y Carolina Cosse?\n\n\n\nSegún tramo de edad\n\n\n\nOjeda-Silva\n¿Cómo calificarías la fórmula presidencial del Partido Colorado integrada por Andrés Ojeda y Robert Silva?\n\n\n\n\n\n\nFicha técnica\nEl relevamiento fue llevado a cabo entre el 5 y el 9 de julio de 2024.\nSe obtuvo información para una muestra de 500 personas, representativa de la población nacional mayor de 18 años. La muestra se seleccionó en base al sexo y estratos de edad, en base a proyecciones de población del Instituto Nacional de Estadística.\nLas respuestas fueron recogidas a través de protocolos automatizados de pregunta y respuesta vía Whatsapp y monitoreadas mediante llamadas telefónicas.\n\n\n\n",
+    "preview": "posts/412/412_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2024-10-08T18:29:02-03:00",
+    "input_file": "412.knit.md"
+  },
+  {
+    "path": "posts/480/",
+    "title": "Allanamientos nocturnos",
+    "description": "El próximo 27 de octubre los habilitados a votar no sólo elegirán la fórmula\npresidencial, sino que también votarán si quieren habilitar o no los allanamientos\nnocturnos, plebiscito impulsado por el senador del Partido Nacional Carlos Camy.",
+    "author": [
+      {
+        "name": "Usina",
+        "url": "https://usinapercepcion.github.io/informes/"
+      }
+    ],
+    "date": "2024-07-10",
+    "categories": [
+      "Agosto 2024"
+    ],
+    "contents": "\nSíntesis\nEl próximo 27 de octubre los habilitados a votar no sólo elegirán la fórmula\npresidencial, sino que también votarán si quieren habilitar o no los allanamientos\nnocturnos, plebiscito impulsado por el senador del Partido Nacional Carlos Camy.\nEsta iniciativa busca modificar el artículo 11 de la Constitución, que prohíbe este\ntipo de operativos en hogares durante la noche.\n\n\n\nFigure 1: Operativo policial. Foto: Rodrigo Viera Amaral\n\n\n\nNivel de información\n¿Cuál es tu nivel de información en relación al Plebiscito para habilitar los allanamientos nocturnos que se votará en las próximas elecciones nacionales?\n22% de las personas consultadas se considera “muy informado/a” en relación a este plebiscito; 51% dice estar “algo informado/a” y 19% “nada informado/a”. El restante 8% no sabe o no contesta.\n\n\n\n\n\n\n",
+    "preview": "posts/480/plots/RS236353_20241006_RV125_700w.jpg",
+    "last_modified": "2024-10-08T18:28:17-03:00",
+    "input_file": "480.knit.md"
+  }
+]

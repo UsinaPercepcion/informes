@@ -1,9 +1,17 @@
-name: "my-website"
+name: "informes"
+title: "USINA DE PERCEPCIÓN CIUDADANA"
+description: |
+  Informes
 output_dir: "docs"
 navbar:
-  title: "My Website"
-  left:
+  logo:
+    image: images/logo.png
+    href: https://usina.com.uy
+  right:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+output:
+  distill::distill_article:
+    css: style.css
