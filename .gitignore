@@ -2,4 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
-.csv
+tables/*.csv
+plots_web.R
+*.Rmd
