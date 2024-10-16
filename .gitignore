@@ -5,3 +5,5 @@
 tables/*.csv
 plots_web.R
 *.Rmd
+*.csv
+*.R
