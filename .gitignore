@@ -7,3 +7,5 @@ plots_web.R
 *.Rmd
 *.csv
 *.R
+*.pdf
+*.jpg
